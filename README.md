@@ -1,5 +1,5 @@
 # AI Algorithms
 
 ### Contents
-* Algorithms
+* ML Algorithms
 * Etc
